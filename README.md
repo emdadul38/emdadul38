@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi visitor 👋
 
+I'm Emdadul Huq, a Principal Backend Engineer for @RealLifeApp. I'm currently focus on building serverless (AWS Lambda) application with Typescript/NestJS and client-side with ReactJS. 
+
+I also **love** to teach and share what I've learned so far.
 <!--
 **emdadul38/emdadul38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
