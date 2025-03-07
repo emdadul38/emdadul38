@@ -11,7 +11,7 @@
 ### Skills
 - **Backend**: NodeJS, Python, Django, Go
 - **Database**: PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
-- **Cloud**: AWS (EC2, S3, Lambda, RDS, DynamoDB, ECS, EKS, CloudFormation, VPC, Route53, CloudWatch, CloudTrail etc.)
+- **Cloud**: AWS (EC2, S3, AWS SAM, Lambda, RDS, DynamoDB, ECS, EKS, CloudFormation, VPC, Route53, CloudWatch, CloudTrail etc.)
 - **CI/CD**: Jenkins, GitHub Actions, GitLab CI, CircleCI
 - **IaC**: Terraform, CloudFormation, Ansible
 - **Containers**: Docker, Kubernetes
