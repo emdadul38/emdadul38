@@ -1,19 +1,36 @@
-### Hi visitor 👋
+# Hi there, I'm Emdadul Huq. 👋
 
-I'm Emdadul Huq, a Principal Backend Engineer for @RealLifeApp. I'm currently focus on building serverless (AWS Lambda) application with Typescript/NestJS and client-side with ReactJS. 
+## Principal Backend Engineer | AWS Cloud Specialist
 
-I also **love** to teach and share what I've learned so far.
-<!--
-**emdadul38/emdadul38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🛠️ 5+ years of experience in Backend Engineering
+- ☁️ Expertise in AWS Cloud, CI/CD pipelines, and Infrastructure as Code (IaC)
+- 💻 Proficient in NodeJS, Python, Django, Go and automation tools
+- 🔒 Passionate about security, scalability, and efficient cloud solutions
 
-Here are some ideas to get you started:
+### Skills
+- **Backend**: NodeJS, Python, Django, Go
+- **Database**: PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
+- **Cloud**: AWS (EC2, S3, Lambda, RDS, DynamoDB, ECS, EKS, CloudFormation, VPC, Route53, CloudWatch, CloudTrail etc.)
+- **CI/CD**: Jenkins, GitHub Actions, GitLab CI, CircleCI
+- **IaC**: Terraform, CloudFormation, Ansible
+- **Containers**: Docker, Kubernetes
+- **Monitoring**: Prometheus, Grafana, CloudWatch
+- **Scripting**: Python, Bash, NodeJS
+- **Version Control**: Git, GitHub, GitLab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Projects
+- [Veeper - Stop coupon leaks](https://apps.shopify.com/veeper-app): A Shopify app that helps brands stop coupon leaks
+- [Werewolf Game](https://www.reallifeapp.com/werewolf): Play the classic game of social-deception with your friends & family! Our AI engine moderates the game so you can just focus on having fun!
+- [Looksee](https://www.reallifeapp.com/looksee): A social productivity app that allow you to delegate tasks to your friends & family.
+- [Terraform AWS Infrastructure](#): Automated AWS infrastructure setup using Terraform
+- [CI/CD Pipeline with GitHub Actions](#): Automated CI/CD pipeline for a NodeJS application
+- [Kubernetes Deployment](#): Managed Kubernetes cluster for a microservices architecture
+
+<!-- ### Certifications
+- AWS Certified Solutions Architect – Associate -->
+
+### Connect with Me
+- 📧 Email: emdadul225@gmail.com
+- 💼 LinkedIn: [Emdadul Huq](https://www.linkedin.com/in/emdadul38/)
