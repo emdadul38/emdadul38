@@ -3,7 +3,7 @@
 ## Principal Backend Engineer | AWS Cloud Specialist
 
 ### About Me
-- 🛠️ 5+ years of experience in Backend Engineering
+- 🛠️ 6+ years of experience in Backend Engineering
 - ☁️ Expertise in AWS Cloud, CI/CD pipelines, and Infrastructure as Code (IaC)
 - 💻 Proficient in NodeJS, Python, Django, Go and automation tools
 - 🔒 Passionate about security, scalability, and efficient cloud solutions
