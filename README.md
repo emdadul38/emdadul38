@@ -10,15 +10,14 @@
 
 ### Skills
 - **Language & Frameworks**: NodeJS, Python, Django, Go(Gin), Express, NestJS
-- **Shopify Expertise**: Admin API (GraphQL/REST), App Bridge, OAuth, Webhooks, Billing APIs, Metafields, Discount APIs
 - **Database**: PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Prisma, Mongoose
+- **Shopify Expertise**: Admin API (GraphQL/REST), App Bridge, OAuth, Webhooks, Billing APIs, Metafields, Discount APIs
 - **DevOps & Cloud**: AWS (EC2, S3, AWS SAM, Lambda, RDS, DynamoDB, ECS, EKS, CloudFormation, VPC, Route53, CloudWatch, CloudTrail etc.),  ArgoCD, Jenkins, GitHub Actions, Docker, Terraform, CloudFormation, Ansible
 - **Kubernetes**: Hands-on experience managing EKS clusters with Helm, autoscaling, monitoring (Prometheus/Grafana), and zero-downtime deployments.
-- **Monitoring**: Prometheus, Grafana, CloudWatch
-- **Scripting**: Python, Bash, NodeJS
-- **Version Control**: Git, GitHub, GitLab
 - **Monitoring & Observability**: New Relic, Prometheus, Grafana, Loki, CloudWatch
 - **Others**: REST/GraphQL API Design, Microservices, CI/CD Automation, Performance Optimization
+- **Version Control**: Git, GitHub, GitLab
+- **Scripting**: Python, Bash
 
 
 ### Projects
